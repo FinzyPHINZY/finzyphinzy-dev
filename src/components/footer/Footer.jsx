@@ -6,7 +6,10 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer__container container">
-        <h2 className="footer__title">Don&apos;t be shy. Contact Me</h2>
+        <h2 className="footer__title">
+          "Hiring is an investment—choosing the wrong person can cost even more.
+          Make the right hire with confidence."
+        </h2>
 
         <div className="footer__social">
           <a

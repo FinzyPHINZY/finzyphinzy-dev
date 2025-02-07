@@ -1,8 +1,8 @@
-import React from 'react'
-import './about.css'
-import AboutImg from '../../assets/boluwatife.jpeg'
-import CV from '../../assets/boluwatifeAdeyemiResume.pdf'
-import Info from './Info'
+import React from 'react';
+import './about.css';
+import AboutImg from '../../assets/me.jpg';
+import CV from '../../assets/boluwatifeAdeyemiResume.pdf';
+import Info from './Info';
 
 const About = () => {
   return (
@@ -54,7 +54,7 @@ const About = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default About
+export default About;

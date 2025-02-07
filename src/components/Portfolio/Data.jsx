@@ -1,5 +1,5 @@
 import Work2 from '../../assets/carepulse.png';
-import Work4 from '../../assets/devlinks.png';
+import Work4 from '../../assets/forever.png';
 import Work7 from '../../assets/finzystore.png';
 import Work9 from '../../assets/hilink.png';
 import Work1 from '../../assets/largescreen-homepage-snapcase.png';
@@ -20,17 +20,19 @@ export const projectsData = [
   {
     id: 4,
     image: Work4,
-    title: 'DevLinks',
+    title: 'Forever',
     description:
-      'This is your one-stop shop for creating a sleek, developer-focused profile page that links to all your favorite platforms. ',
-    link: 'https://devlink-eta.vercel.app/',
-    repo: 'https://github.com/FinzyPHINZY/devlinks',
+      'Forever is a sleek and responsive e-commerce platform designed for seamless shopping featuring intuitive navigation, a dynamic product catalog, a cart system with secure checkout, and user authentication.',
+    link: 'https://buyatforever.vercel.app/',
+    repo: 'https://github.com/FinzyPHINZY/forever-frontend',
     category: 'applications',
   },
   {
     id: 9,
     image: Work9,
     title: 'HiLink.',
+    description:
+      'Hilink is a hiking and climbing companion application that helps adventurers navigate and plan their journeys. It provides real-time information, offline maps, and augmented reality features to enhance the outdoor experience.',
     link: 'https://hilink-travelcamp.vercel.app/',
     repo: 'https://github.com/FinzyPHINZY/hi-link',
     category: 'websites',
@@ -38,9 +40,11 @@ export const projectsData = [
   {
     id: 10,
     image: Work10,
-    title: 'Brick and Beam.',
-    link: 'https://brickand-beam.vercel.app/',
-    repo: 'https://github.com/FinzyPHINZY/brickandbeam',
+    title: 'Estate',
+    description:
+      'Estate is a sleek and interactive frontend project built with React.js and Framer Motion for a real estate company showcasing available properties, highlights completed projects, and provides an intuitive user experience for potential buyers looking for their dream homes.',
+    link: 'https://estate-finzyphinzy.vercel.app/',
+    repo: 'https://github.com/FinzyPHINZY/estate',
     category: 'websites',
   },
   {
@@ -58,6 +62,8 @@ export const projectsData = [
     id: 3,
     image: Work3,
     title: 'Positivus',
+    description:
+      'Positivus is a sleek React.js and Framer Motion-powered frontend for a digital marketing agency, showcasing SEO, PPC, and social media services with a smooth, engaging user experience.',
     link: 'https://positivus-digital.vercel.app/',
     repo: 'https://github.com/FinzyPHINZY/positivus',
     category: 'websites',

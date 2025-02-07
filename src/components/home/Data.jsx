@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Data = () => {
   return (
@@ -6,8 +6,8 @@ const Data = () => {
       <h1 className="home__title">Boluwatife Adeyemi</h1>
       <h3 className="home__subtitle">Software Engineer</h3>
       <p className="home__description">
-        I enjoy finding solutions to problems relating to software. I take pride
-        in being able to open a documentation, learn and make it work
+        I enjoy finding solutions to problems relating to software. Most
+        especially, challenges and problems i have not dealt with previously.
       </p>
 
       <a href="#portfolio" className="button button--flex">
@@ -31,7 +31,7 @@ const Data = () => {
         </svg>
       </a>
     </div>
-  )
-}
+  );
+};
 
-export default Data
+export default Data;

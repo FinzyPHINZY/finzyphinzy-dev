@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Backend = () => {
   return (
@@ -20,7 +20,7 @@ const Backend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Redis</h3>
+              <h3 className="skills__name">AWS</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -29,8 +29,17 @@ const Backend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Golang</h3>
-              <span className="skills__level">Basic</span>
+              <h3 className="skills__name">PostgreSQL</h3>
+              <span className="skills__level">Advanced</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Firebase</h3>
+              <span className="skills__level">Advanced</span>
             </div>
           </div>
         </div>
@@ -74,7 +83,7 @@ const Backend = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Backend
+export default Backend;
