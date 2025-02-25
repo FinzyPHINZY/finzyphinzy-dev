@@ -102,6 +102,16 @@ export const projectsData = [
     category: 'applications',
   },
   {
+    id: 18,
+    image: API,
+    title: 'vtu-application',
+    description:
+      'This is a financial services API that enables users to create virtual bank accounts, make transfers, and pay for services like airtime, data, cable TV, and electricity bills. Includes admin features for monitoring transactions, managing the platform, etc. The API handles user authentication, transaction security, and maintains detailed transaction records.',
+    link: 'https://github.com/FinzyPHINZY/vtu-application',
+    repo: 'https://github.com/FinzyPHINZY/vtu-application',
+    category: 'APIS',
+  },
+  {
     id: 19,
     image: API,
     title: 'forever',
