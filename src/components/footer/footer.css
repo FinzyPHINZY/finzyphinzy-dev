@@ -13,8 +13,8 @@
 }
 
 .footer__title {
+  margin-top: 1rem;
   text-align: center;
-  margin-bottom: var(--mb-2);
 }
 
 .footer__link:hover {
