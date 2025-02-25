@@ -1,7 +1,8 @@
-import React from 'react'
-import './skills.css'
-import Frontend from './Frontend'
-import Backend from './Backend'
+import React from 'react';
+import './skills.css';
+import Frontend from './Frontend';
+import Backend from './Backend';
+import Misc from './Misc';
 
 const Skills = () => {
   return (
@@ -12,9 +13,10 @@ const Skills = () => {
       <div className="skills__container container grid">
         <Frontend />
         <Backend />
+        <Misc />
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default Skills
+export default Skills;

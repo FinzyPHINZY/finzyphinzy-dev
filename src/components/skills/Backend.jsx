@@ -20,8 +20,8 @@ const Backend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">AWS</h3>
-              <span className="skills__level">Intermediate</span>
+              <h3 className="skills__name">Express.js</h3>
+              <span className="skills__level">Advanced</span>
             </div>
           </div>
 
@@ -39,7 +39,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">Firebase</h3>
-              <span className="skills__level">Advanced</span>
+              <span className="skills__level">Intermediate</span>
             </div>
           </div>
         </div>
@@ -49,7 +49,7 @@ const Backend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Express.JS</h3>
+              <h3 className="skills__name">MongoDB</h3>
               <span className="skills__level">Advanced</span>
             </div>
           </div>
@@ -58,7 +58,7 @@ const Backend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">MySQL</h3>
+              <h3 className="skills__name">SQL</h3>
               <span className="skills__level">Advanced</span>
             </div>
           </div>
@@ -77,6 +77,15 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">TypeScript</h3>
+              <span className="skills__level">Advanced</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Fast API</h3>
               <span className="skills__level">Advanced</span>
             </div>
           </div>
