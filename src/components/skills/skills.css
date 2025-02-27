@@ -4,7 +4,7 @@
   justify-content: center;
 }
 
-.skills__container::after {
+/* .skills__container::after {
   content: '';
   grid-column: span 2;
 }
@@ -12,7 +12,7 @@
 .skills__container > *:nth-child(3) {
   grid-column: span 2;
   justify-self: center;
-}
+} */
 .skills__content {
   background-color: var(--container-color);
   border: 1px solid rgba(0, 0, 0, 0.1);

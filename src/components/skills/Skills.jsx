@@ -13,7 +13,7 @@ const Skills = () => {
       <div className="skills__container container grid">
         <Frontend />
         <Backend />
-        <Misc />
+        {/* <Misc /> */}
       </div>
     </section>
   );
