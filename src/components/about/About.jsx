@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import AboutImg from '../../assets/finzyphinzy.JPG';
+import AboutImg from '../../assets/finzyphinzy.jpg';
 import CV from '../../assets/boluwatife_adeyemi.pdf';
 import Info from './Info';
 
